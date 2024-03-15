@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+Pillow
+pdf2image
+easyocr
+python-dotenv
+openai==0.28
+pytesseract
+unidecode
